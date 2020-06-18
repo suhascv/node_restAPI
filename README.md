@@ -1,1 +1,1 @@
-restapi using node and express js , performing CRUD with mangoose/mongodb
+restapi using node and express js , performing CRUD with mongoose/mongodb
